@@ -1,0 +1,70 @@
+4
+23 6 1998
+Shafir
+2
+TextStatus 24 Tue Jan 17 19:51:38 2023
+LOL is better than MU
+PictureStatus 24 Tue Jan 17 19:51:38 2023
+i love c++
+14 4 1997
+Ohad
+2
+TextStatus 24 Tue Jan 17 19:51:38 2023
+Maccabi Haifa the best
+VideoStatus 24 Tue Jan 17 19:51:38 2023
+LOL is better than MU
+23 6 1998
+Ronald
+2
+TextStatus 24 Tue Jan 17 19:51:38 2023
+i love c++
+VideoStatus 24 Tue Jan 17 19:51:38 2023
+Maccabi Haifa the best
+23 6 1998
+Efron
+2
+PictureStatus 24 Tue Jan 17 19:51:38 2023
+Maccabi Haifa the best
+VideoStatus 24 Tue Jan 17 19:51:38 2023
+LOL is better than MU
+3
+Maccabi Haifa
+2
+TextStatus 24 Tue Jan 17 19:51:38 2023
+i love c++
+VideoStatus 24 Tue Jan 17 19:51:38 2023
+Maccabi Haifa the best
+Daniel Ponkatz the king
+2
+VideoStatus 24 Tue Jan 17 19:51:38 2023
+LOL is better than MU
+PictureStatus 24 Tue Jan 17 19:51:38 2023
+i love c++
+MTA
+2
+TextStatus 24 Tue Jan 17 19:51:38 2023
+Maccabi Haifa the best
+VideoStatus 24 Tue Jan 17 19:51:38 2023
+LOL is better than MU
+Shafir
+1
+Ohad
+1
+MTA
+Ohad
+2
+Shafir
+Ronald
+1
+Daniel Ponkatz the king
+Ronald
+2
+Ohad
+Efron
+1
+Daniel Ponkatz the king
+Efron
+1
+Ronald
+1
+Maccabi Haifa

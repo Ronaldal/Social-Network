@@ -1,0 +1,10 @@
+﻿  Billboard.cpp
+  Main.cpp
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\Main.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Member.cpp
+  MenuFunctions.cpp
+  System.cpp
+  fanPage.cpp
+  Generating Code...
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\MenuFunctions.cpp(85): warning C4172: returning address of local variable or temporary: name
+  FacebookProject.vcxproj -> C:\Users\roni2\source\repos\FacebookProject\Debug\FacebookProject.exe

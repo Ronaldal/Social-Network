@@ -1,0 +1,73 @@
+﻿  Billboard.cpp
+  Main.cpp
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\fanPage.h(32,67): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\Date.h(18,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\Member.h(24,72): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\Member.h(42,66): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\Member.h(43,69): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\System.h(25,81): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\System.h(26,60): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\System.h(30,87): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\System.h(32,89): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\System.h(34,91): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\System.h(45,122): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\MenuFunctions.h(18,54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\MenuFunctions.h(19,90): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Member.cpp
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\Date.h(18,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\Member.h(24,72): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\Member.h(42,66): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\Member.h(43,69): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\fanPage.h(32,67): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\Member.cpp(40,79): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\Member.cpp(166,77): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\Member.cpp(181,74): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\Member.cpp(215,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  MenuFunctions.cpp
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\fanPage.h(32,67): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\Date.h(18,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\Member.h(24,72): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\Member.h(42,66): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\Member.h(43,69): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\System.h(25,81): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\System.h(26,60): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\System.h(30,87): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\System.h(32,89): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\System.h(34,91): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\System.h(45,122): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\MenuFunctions.h(18,54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\MenuFunctions.h(19,90): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\MenuFunctions.cpp(113,90): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\MenuFunctions.cpp(242,54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  PictureStatus.cpp
+  Status.cpp
+  System.cpp
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\fanPage.h(32,67): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\Date.h(18,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\Member.h(24,72): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\Member.h(42,66): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\Member.h(43,69): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\System.h(25,81): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\System.h(26,60): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\System.h(30,87): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\System.h(32,89): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\System.h(34,91): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\System.h(45,122): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\System.cpp(63,88): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\System.cpp(92,98): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\System.cpp(116,96): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\System.cpp(128,68): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\System.cpp(144,94): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\System.cpp(217,128): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  TextStatus.cpp
+  VideoStatus.cpp
+  fanPage.cpp
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\fanPage.h(32,67): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\Date.h(18,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\Member.h(24,72): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\Member.h(42,66): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\Member.h(43,69): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\fanPage.cpp(26,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\roni2\source\repos\FacebookProject\FacebookProject\fanPage.cpp(71,75): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Generating Code...
+  FacebookProject.vcxproj -> C:\Users\roni2\source\repos\FacebookProject\x64\Debug\FacebookProject.exe
