@@ -1,2 +1,0 @@
-Ohad Goldberg - 208783266 -12111955
-Ronald Alhazov - 207233651 -12111955
